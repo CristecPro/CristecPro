@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá nós somos a CristecPro✌
 
-<!--
-**CristecPro/CristecPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/CristecPro)
 
-Here are some ideas to get you started:
+![CristecPro GitHub stats](https://github-readme-stats.vercel.app/api?username=CristecPro&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Especialidades💻
+
+<div style="display:inline_block">  <br/>
+<img align="center" alt="html5" scr="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+
+
+</div>
+
