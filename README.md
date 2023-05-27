@@ -6,7 +6,6 @@
 
 ## Especialidades💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CristecPro=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
@@ -31,6 +30,9 @@
 
 
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristecPro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>Jovens programadores unidos para desenvolver Angola com tecnologia, criando soluções inovadoras e impactando positivamente nossa sociedade.</p>
 
 
