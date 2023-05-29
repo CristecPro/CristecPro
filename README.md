@@ -31,7 +31,7 @@
 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristecPro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristecPro&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)](https://youtu.be/o6As-dAX70w)
 
 <p>Jovens programadores unidos para desenvolver Angola com tecnologia, criando soluções inovadoras e impactando positivamente nossa sociedade.</p>
 
