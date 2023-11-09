@@ -8,4 +8,6 @@ Estabelecer diretrizes claras e padronizadas para o uso do GitHub, garantindo um
 
 ## Redes social
 
- <a href="https://www.facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
+<a href="https://www.facebook.com/CristecPro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/cristec_pro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<a href="https://www.tiktok.com/@cristec_pro" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+
