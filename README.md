@@ -5,6 +5,20 @@
 Estabelecer diretrizes claras e padronizadas para o uso do GitHub, garantindo uma abordagem coesa e eficiente no desenvolvimento de software.
 ## Projeto
 *Explore projetos em destaques
+  <div align="center">
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CristecPro&show_icons=true&count_private=true&hide_border=true&title_color=dee5ea&icon_color=1F85DE&text_color=dee5ea&bg_color=0d1117" alt="CristecPro status"/>
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristecPro&layout=compact&hide_border=true&title_color=dee5ea&text_color=dee5ea&bg_color=0d1117" />
+  
+  </div>
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CristecPro&custom_title=Cristec%20Pro%20Contribution%20graph&hide_border=true&bg_color=0d1117&title_color=dee5ea&color=1DAFDB&line=1DAFDB&point=1DAFDB)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  
+  <div align="center">  
+  
+  </div>
 
 ## Redes social
 
