@@ -1,4 +1,4 @@
-![Imagem WhatsApp 2023-11-03 às 18 03 40_0c1576f9](https://github.com/CristecPro/CristecPro/assets/134543856/93c4783d-aa9a-4b25-b621-685f93e11b94)
+![capa git](https://github.com/CristecPro/CristecPro/assets/134543856/9ad13917-d631-4596-9dbc-992aa125bebd)
 
 ## Implementação e Padronização de Fluxos de Trabalho
 
