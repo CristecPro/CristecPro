@@ -1,4 +1,4 @@
-![capa git](https://github.com/CristecPro/CristecPro/assets/134543856/9ad13917-d631-4596-9dbc-992aa125bebd)
+![Image](https://github.com/user-attachments/assets/eca3f1c6-97b0-4168-8e90-43b3cf359fbd)
 
 ## Implementação e Padronização de Fluxos de Trabalho
 
